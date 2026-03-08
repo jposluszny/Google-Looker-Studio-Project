@@ -8,7 +8,7 @@ This project was created to demonstrate proficiency in **Google Looker Studio** 
 ![Dashboard Preview](dashboard.png)
 
 ### 📂 Files
-* [**View Report (PDF)**](https://jposluszny.github.io/Google-Looker-Studio-Project/) - A static export of the final visualization.
+* [**View Report (PDF)**](https://jposluszny.github.io/Google-Looker-Studio-Project/GLS-Project.pdf) - A static export of the final visualization.
 
 ---
 *Created by jposluszny as part of a Data Science & ML training path.*
